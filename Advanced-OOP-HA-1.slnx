@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/Data/">
+    <Project Path="Data/TerritoryExpansionGame.Data.csproj" />
+  </Folder>
+  <Folder Name="/Logic/">
+    <Project Path="Logic/TerritoryExpansionGame.Logic.csproj" />
+  </Folder>
+  <Folder Name="/Presentation/">
+    <Project Path="Presentation/TerritoryExpansionGame.csproj" />
+  </Folder>
+</Solution>
